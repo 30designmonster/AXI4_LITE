@@ -22,6 +22,3 @@ The testbench initiates multiple **read and write transactions** from the master
 * Proper handshakes for each channel
 * Response signaling and reset handling
 
----
-
-Let me know if you want a version with waveform viewer instructions or test coverage summary.
